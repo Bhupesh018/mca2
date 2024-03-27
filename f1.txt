@@ -5,3 +5,7 @@ hello i am writing in remote location...
 
 hello i am bhupesh patil 
 roll: 142
+
+done pushing 
+
+and go to the pull from remote to local
